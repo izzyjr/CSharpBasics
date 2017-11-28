@@ -1,0 +1,7 @@
+C:\Users\Israel\source\repos\Demo for Variables and Constants\Demo for Variables and Constants\bin\Debug\Demo for Variables and Constants.exe.config
+C:\Users\Israel\source\repos\Demo for Variables and Constants\Demo for Variables and Constants\bin\Debug\Demo for Variables and Constants.exe
+C:\Users\Israel\source\repos\Demo for Variables and Constants\Demo for Variables and Constants\bin\Debug\Demo for Variables and Constants.pdb
+C:\Users\Israel\source\repos\Demo for Variables and Constants\Demo for Variables and Constants\obj\Debug\Demo for Variables and Constants.csprojResolveAssemblyReference.cache
+C:\Users\Israel\source\repos\Demo for Variables and Constants\Demo for Variables and Constants\obj\Debug\Demo for Variables and Constants.csproj.CoreCompileInputs.cache
+C:\Users\Israel\source\repos\Demo for Variables and Constants\Demo for Variables and Constants\obj\Debug\Demo for Variables and Constants.exe
+C:\Users\Israel\source\repos\Demo for Variables and Constants\Demo for Variables and Constants\obj\Debug\Demo for Variables and Constants.pdb
