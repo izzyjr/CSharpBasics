@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{919FAA7F-FE51-4C15-9EED-4323D0B3B697}</ProjectGuid>
+    <ProjectGuid>{BD284F39-20EA-40BF-A8DB-0824054B099D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>RedoVarAndConst</RootNamespace>
-    <AssemblyName>RedoVarAndConst</AssemblyName>
+    <RootNamespace>VarAndConst</RootNamespace>
+    <AssemblyName>VarAndConst</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

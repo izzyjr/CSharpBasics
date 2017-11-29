@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RedoVarAndConst
+namespace VarAndConst
 {
     class Program
     {
@@ -21,7 +21,7 @@ namespace RedoVarAndConst
 
             float number = 1.2f; //add suffix f
             decimal otherNumber = 1.2m; //add suffix m
+
         }
-    }
     }
 }
